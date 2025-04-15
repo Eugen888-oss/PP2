@@ -98,6 +98,9 @@ and pressing `enter`.
 <details>
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
+
+    ![2020-11-25 18_05_57-Dokument1 - Word](https://github.com/user-attachments/assets/afab1c29-386f-4c09-8a84-f64a31dc958e)
+
 </details>
 
 ### Task 4: Handling Parameters
