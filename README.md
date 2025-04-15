@@ -72,7 +72,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    ......
+    The $ makes the return_value to an identifier, in which the calculation is saved. Without the $ the echo comand just give back what we write, in this case the world return_value.
 </details>
 
 ### Task 3: Function-Identifiers
