@@ -97,7 +97,8 @@ and pressing `enter`.
 
 <details>
     <summary>Calling a Function</summary>
-    Include a screenshot of your function-call!
+    ![image](https://github.com/user-attachments/assets/673a7a29-468c-4066-b8a3-1dcbd26b832d)
+
 </details>
 
 ### Task 4: Handling Parameters
