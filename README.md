@@ -350,7 +350,7 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    ....
+    /home/eugen/functions
 </details>
 
 All filenames start with a `/`. 
@@ -374,7 +374,8 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ....
+    bin                boot  etc   init  lib.usr-is-merged  media  opt   root  sbin                snap  sys  usr
+bin.usr-is-merged  dev   home  lib   lib64              mnt    proc  run   sbin.usr-is-merged  srv   tmp  var
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
@@ -390,9 +391,11 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
 <details>
     <summary>Your Terminal Output</summary>
 ```bash
-your terminal output
+function  functions
 ```
+    
 </details>
+
 
 ### Task 10: Managing Software
 We learned a few shell-primitives up until here. 
