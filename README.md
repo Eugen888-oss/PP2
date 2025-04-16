@@ -261,11 +261,18 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
 
 **Write a function, combining at least 3 different of these primitives to a function**
 <details>
-    <summary>Your Function</summary>
+declare -f eugen_func
+eugen_func ()
+{
+    var1=$1;
+    var2=$2;
+    echo $(( $var1 * $var2));
+    if (( var1 == var2)); then
+        echo "This is a squaring calculation.";
+    else
+        echo "This is a normal multipication.";
+    fi
     
-```bash
-your code
-```
 
 </details>
 
