@@ -261,7 +261,6 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
 
 **Write a function, combining at least 3 different of these primitives to a function**
 <details>
-declare -f eugen_func
 eugen_func ()
 {
     var1=$1;
@@ -308,8 +307,7 @@ cat ./function
 
 **What happend?**
 <details>
-    <summary>Your Explaination</summary>
-    .....
+    <The first function is only available in functions, the second function is in function and functions. Thus, the file is copied with >> and moved with >.
 
 </details>
 
