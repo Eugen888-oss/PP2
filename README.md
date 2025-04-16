@@ -307,7 +307,7 @@ cat ./function
 
 **What happend?**
 <details>
-    <The first function is only available in functions, the second function is in function and functions. Thus, the file is copied with >> and moved with >.
+    The first function is only available in functions, the second function is in function and functions. Thus, the file is copied with >> and moved with >.
 
 </details>
 
